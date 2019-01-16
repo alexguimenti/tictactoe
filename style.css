@@ -1,0 +1,42 @@
+p {
+  float: left;
+  margin-right: 10px;
+}
+
+button {
+  margin: auto;
+  margin-top: 20px;
+}
+
+.space {
+  width: 80px;
+  height: 60px;
+  border: 2px solid black;
+  float: left;
+  text-align: center;
+  padding-top: 20px
+}
+
+.canvas {
+  width: 252px;
+  height: 252px;
+  margin: auto;
+}
+
+button {
+  width: 122px;
+  margin: 0px 65px;
+}
+
+#button {
+  width: 252px;
+  margin: 20px auto;
+}
+
+#display {
+  margin: auto;
+  margin-top: 40px;
+  width: 252px;
+  padding-left: 90px;
+  height: 80px;
+}
